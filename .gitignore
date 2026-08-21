@@ -25,3 +25,5 @@ pnpm-debug.log*
 # Temporary files
 *.tmp
 *.temp
+# User-uploaded files
+backend/uploads/
